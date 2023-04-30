@@ -162,7 +162,7 @@
 This codebase has been developed with python version 3.7, PyTorch 1.7+ and torchvision 0.8+:
 
 ```
-conda install pytorch==1.7.0 torchvision==0.8.0 cudatoolkit=10.2 -c pytorch
+conda install pytorch==1.13.1 torchvision==0.14.1 cudatoolkit=10.2 -c pytorch -c nvidia
 ```
 
 See `requirements.txt` for additional dependencies and version requirements.
